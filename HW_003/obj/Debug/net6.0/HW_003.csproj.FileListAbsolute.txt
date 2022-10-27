@@ -1,0 +1,15 @@
+E:\Slava\Учеба\Seminar_my_homework\HW_003\bin\Debug\net6.0\HW_003.exe
+E:\Slava\Учеба\Seminar_my_homework\HW_003\bin\Debug\net6.0\HW_003.deps.json
+E:\Slava\Учеба\Seminar_my_homework\HW_003\bin\Debug\net6.0\HW_003.runtimeconfig.json
+E:\Slava\Учеба\Seminar_my_homework\HW_003\bin\Debug\net6.0\HW_003.dll
+E:\Slava\Учеба\Seminar_my_homework\HW_003\bin\Debug\net6.0\HW_003.pdb
+E:\Slava\Учеба\Seminar_my_homework\HW_003\obj\Debug\net6.0\HW_003.csproj.AssemblyReference.cache
+E:\Slava\Учеба\Seminar_my_homework\HW_003\obj\Debug\net6.0\HW_003.GeneratedMSBuildEditorConfig.editorconfig
+E:\Slava\Учеба\Seminar_my_homework\HW_003\obj\Debug\net6.0\HW_003.AssemblyInfoInputs.cache
+E:\Slava\Учеба\Seminar_my_homework\HW_003\obj\Debug\net6.0\HW_003.AssemblyInfo.cs
+E:\Slava\Учеба\Seminar_my_homework\HW_003\obj\Debug\net6.0\HW_003.csproj.CoreCompileInputs.cache
+E:\Slava\Учеба\Seminar_my_homework\HW_003\obj\Debug\net6.0\HW_003.dll
+E:\Slava\Учеба\Seminar_my_homework\HW_003\obj\Debug\net6.0\refint\HW_003.dll
+E:\Slava\Учеба\Seminar_my_homework\HW_003\obj\Debug\net6.0\HW_003.pdb
+E:\Slava\Учеба\Seminar_my_homework\HW_003\obj\Debug\net6.0\HW_003.genruntimeconfig.cache
+E:\Slava\Учеба\Seminar_my_homework\HW_003\obj\Debug\net6.0\ref\HW_003.dll
